@@ -1,4 +1,6 @@
 # helloworld
-my first program
+# my first program
+# Idhu than ennoda first program
 
-Idhu than ennoda first program
+print('Hello World)
+
